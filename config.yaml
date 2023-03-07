@@ -43,8 +43,7 @@ params:
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
-
-  enterBtn: "Добро пожаловать"
+  enterBtn: "Начало"
 
 markup:
   defaultMarkdownHandler: goldmark
