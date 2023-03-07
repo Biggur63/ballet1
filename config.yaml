@@ -9,7 +9,7 @@ params:
   subtitle: Мы предлагаем ненадолго окунуться в атмосферу классического балета. # todo: change default subtitle for your website.
   copyright: Все права защищены. # todo: set your copyright type.
   author: Юрий Гуревич # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
@@ -43,7 +43,7 @@ params:
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
-  enterBtn: "Начало"
+  enterBtn: "Вход"
 
 markup:
   defaultMarkdownHandler: goldmark
