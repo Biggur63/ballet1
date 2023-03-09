@@ -5,24 +5,15 @@ url: work
 
 <div align="center">
 	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+        Поговорим о классическом балете. Меня зовут Юрий Гуревич, я фотограф с многолетним стажем. Скажу прямо, что в искусстве балета я не эксперт.
 	</p>
 	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
+        Но вот полгода назад представилась возможность заглянуть в этот мир.
 	</p>
+	<p>	
+		Моими проводниками согласились быть педагоги отделения «Искусство балета» Ростовского колледжа искусств Альберт Загретдинов и Елизавета Мислер. Кроме того, в проекте приняли студенты выпускного курса Олеся Белевцова, Ян Чижевский и другие студенты колледжа.
+	</p>
+	<p>
+
+#### **Добро пожаловать в наш проект!**
 </div>
-
-#### Features
-
-- **Configurable** features.
-
-- **Multiple images** support.
-
-- Clean, fresh, **minimalist**.
-
-- Integrated **lazy load**.
-
-- Automaticly creates **resized** thumbnails.
-
-- Shows **exif** if it exists.
-
